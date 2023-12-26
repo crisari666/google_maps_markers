@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-      <Wrapper apiKey={"AIzaSyB42KE_SyTx0mvEWe1Z4EU9ramLWn4JBF4"} render={render}>
+      <Wrapper apiKey={"API_KEY"} render={render}>
         <MapComponent />
       </Wrapper>
     </div>
